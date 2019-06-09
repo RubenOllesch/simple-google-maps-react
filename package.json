@@ -1,0 +1,24 @@
+{
+  "name": "simple-google-maps-react",
+  "version": "1.0.0",
+  "description": "Some small React wrappers for the google maps JS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubenOllesch/simple-google-maps-react.git"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "react"
+  ],
+  "author": "Ruben Ollesch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubenOllesch/simple-google-maps-react/issues"
+  },
+  "homepage": "https://github.com/RubenOllesch/simple-google-maps-react#readme"
+}
